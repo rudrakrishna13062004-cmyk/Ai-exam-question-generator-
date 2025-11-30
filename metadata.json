@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Exam Question Generator",
+  "description": "An expert exam-question generator and content-creator. Generate high-quality exam questions in JSON format according to various parameters like subject, language, difficulty, and question type.",
+  "requestFramePermissions": []
+}
